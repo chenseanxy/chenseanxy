@@ -1,5 +1,5 @@
 <div align="center">
     <h2>Chen Xinyang</h2>
-    <p>Backend | DevOps | Data</p>
-    <p>Shenzhen & Beijing, China</p>
+    <p>DevOps | Data</p>
+    <p>Helsinki, Finland & Shenzhen, China</p>
 </div>
